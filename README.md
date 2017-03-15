@@ -16,19 +16,20 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
-不过加入前，有几个小要求：
+不过加入前，要求：
 
-* 英文还不错，能读懂英文并用自己的话复述；
+* 爱好开源，能读懂英文文档
 * 有 MySQL 相关实践经验；
 
-如有兴趣，请加 QQ群： XXXX。加 群时 时请注明「MySQL大全」
+如有兴趣，请加 QQ群： 480110023。加 群时 时请注明「awesome-mysql」
 
 * * *
 
 ### 本项目的参与者
 
-- 维护者：[知数堂](https://github.com/zhishutech)
-- [吴炳锡](https://github.com/wubx) [blog](http://wubx.net)  根据原文进行翻译添加本土工具。
+- 维护者：[知数堂](https://zhishuedu.com)
+- [吴炳锡](https://github.com/wubx) [blog](http://wubx.net)  
+- 根据原文进行翻译添加本土工具。
 - 
 注：名单不分排名，不定期补充更新
 
@@ -245,6 +246,6 @@ __顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只�
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
 #工具整理交流
 <h3 id="QQ">QQ群：480110023 </h3>
-如果有异议也可以联系 吴炳锡
+如果有异议也可以联系: XXX
 
 
