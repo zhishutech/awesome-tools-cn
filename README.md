@@ -10,11 +10,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 ### 做这个的目的
-[知数堂](http://zhishuedu.com)从事MySQL，Python相关教学工作， 有责任给学生做好职业辅垫，同时需要回馈到圈子里的朋友。以前想以公众号的形式推荐这些工具。后来觉的，不如以github的形式整理，这样方便更多的朋友参与。 也利于圈子的交流。
+
+[知数堂](http://zhishuedu.com)从事MySQL，Python相关教学工作， 有责任给学生做好职业辅垫，同时需要回馈给社区。以前想以公众号的形式推荐这些工具。后来觉的，不如以github的形式整理，这样方便更多的朋友参与。 也利于圈子的交流。
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+从下面的目录来看，本项目的工作量不小，所以非常期待能有更多社区成员一起参与进来。
 
 不过加入前，要求：
 
@@ -67,7 +68,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 性能，结构和数据分析工具
 
-*   [Anemometer](https://github.com/box/Anemometer) - 一个 SQL 慢查询监控器。 可以在上面做二次开发，实现慢日志收集平台。
+*   [Box Anemometer](https://github.com/box/Anemometer) - 一个 SQL 慢查询监控器。 可以在上面做二次开发，实现慢日志收集平台。
 *   [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。特别提示： wubx 备注，这个工具非常强大，从2016年开始，用这个工具分析Innodb底层的一些问题，表示很受溢。
 *   [innotop](https://github.com/innotop/innotop) - 一个具备多种特性和可扩展性的 MySQL 版 'top' 工具。
 *   [pstop](https://github.com/sjmudd/ps-top) - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。
@@ -154,6 +155,8 @@ _MySQL 代理_
 *   [Mixer](https://github.com/siddontang/mixer) - Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。
 *   [MySQL Proxy](https://launchpad.net/mysql-proxy) - 一个处于你的客户端和 MySQL 服务端之间的简单程序，它可以检测、分析或者改变它们的通信。
 *   [ProxySQL](https://github.com/renecannao/proxysql) - 高性能的 MySQL 代理。
+*   [Atlas](https://github.com/Qihoo360/Atlas) - Qihoo 360开源的MySQL Proxy。
+*   [OneProxy](http://www.onexsoft.com/proxy.html) - 业界专家楼方鑫开发的商业Proxy产品。
 
 
 ## 复制
@@ -169,8 +172,7 @@ _复制相关的软件_
 _附加模式_
 
 *   [common_schema](https://code.google.com/archive/p/common-schema) - MySQL DBA 的框架， 提供一个具有函数库、视图库和查询脚本的解释器。
-*   [sys](https://github.com/mysql/mysql-sys) - 一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。
-
+*   [sys](https://github.com/mysql/mysql-sys) - 一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。（备注：MySQL 5.7已经集成了sys schema功能，可以不再关注该项目了）
 ## 服务器
 
 _MySQL server分支_
@@ -191,6 +193,7 @@ _分片解决方案/框架_
 *   [jetpants](https://github.com/tumblr/jetpants) - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 *   [DBproxy](https://github.com/Meituan-Dianping/DBProxy) - 美团开源出来的一个DBproxy 目前比较活跃
 *   [MyCAT](https://github.com/MyCATApache/Mycat-Server) - 基于Java开发的一款Proxy功能方面比较强大。
+*   [Atlas](https://github.com/Qihoo360/Atlas) - Qihoo 360开源的MySQL Proxy。
 *   [KingShard](https://github.com/flike/kingshard) - 基于Golang实现的一个MySQL Proxy。
 
 ## 工具包
@@ -247,7 +250,6 @@ __顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只�
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
 
 #工具整理交流
-<h3 id="QQ">QQ群：480110023 </h3>
-如果有异议也可以联系QQ : 82565387, 4700963
 
+<h3 id="QQ">有任何建议或意见请加入QQ群：480110023 </h3>
 
