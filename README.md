@@ -1,6 +1,6 @@
 # # MySQL 资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，有两点可以改善：
 1. 没有中国本地的一些工具，另外一些工具在国内市场没有得到认可。
@@ -10,7 +10,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 ### 做这个的目的
-知数堂从事MySQL，Python相关教学工作， 有责任给学生做好职业辅垫，同时需要回馈给社区。以前想以公众号的形式推荐这些工具。后来觉的，不如以github的形式整理，这样方便更多的朋友参与。 也利于圈子的交流。
+
+[知数堂](http://zhishuedu.com)从事MySQL，Python相关教学工作， 有责任给学生做好职业辅垫，同时需要回馈给社区。以前想以公众号的形式推荐这些工具。后来觉的，不如以github的形式整理，这样方便更多的朋友参与。 也利于圈子的交流。
 
 ### 如何参与本项目？
 
@@ -28,7 +29,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[知数堂](https://zhishuedu.com)
-- [吴炳锡](https://github.com/wubx) [blog](http://wubx.net)  
+- [吴炳锡](https://github.com/wubx) [blog](http://wubx.net) 
+- [叶金荣](http://imysql.com) 
 - 根据原文进行翻译添加本土工具。
 - 
 注：名单不分排名，不定期补充更新
@@ -207,7 +209,7 @@ _工具包，通用脚本_
 
 # SQL审核
  [mysql inception](https://github.com/mysql-inception/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
-  [Themis](https://github.com/CreditEaseDBA/Themis) - Themis，是宜信公司DBA团队开发的一款数据库审核产品。可帮助DBA、开发人员快速发现数据库质量问题，提升工作效率。
+ [Themis](https://github.com/CreditEaseDBA/Themis) - Themis，是宜信公司DBA团队开发的一款数据库审核产品。可帮助DBA、开发人员快速发现数据库质量问题，提升工作效率。
 
 # 社会资源
 
@@ -246,5 +248,8 @@ _公开，持续的视频和音频转播。这不包括会议演讲那令人恐�
 __顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只需要一个 email 地址。_
 
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
+
 #工具整理交流
+
 <h3 id="QQ">有任何建议或意见请加入QQ群：480110023 </h3>
+
