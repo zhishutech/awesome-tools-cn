@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - [吴炳锡](https://github.com/wubx) [blog](http://wubx.net) 
 - [叶金荣](http://imysql.com) 
 - 根据原文进行翻译添加本土工具。
-- 
+
 注：名单不分排名，不定期补充更新
 
 * * *
