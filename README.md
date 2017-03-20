@@ -1,4 +1,4 @@
-# # MySQL 资源大全中文版
+# MySQL 资源大全中文版
 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
 
@@ -249,7 +249,7 @@ __顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只�
 
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
 
-#工具整理交流
+# 工具整理交流
 
 <h3 id="QQ">有任何建议或意见请加入QQ群：480110023 </h3>
 
