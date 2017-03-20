@@ -63,6 +63,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   电子书
 *   媒体
 *   简讯
+*   技术站点
 
 ## 分析工具
 
@@ -151,12 +152,12 @@ _高可用解决方案_
 
 _MySQL 代理_
 
-*   [MaxScale](https://github.com/mariadb-corporation/MaxScale) - 开源，以数据库为中心的代理。
-*   [Mixer](https://github.com/siddontang/mixer) - Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。
-*   [MySQL Proxy](https://launchpad.net/mysql-proxy) - 一个处于你的客户端和 MySQL 服务端之间的简单程序，它可以检测、分析或者改变它们的通信。
-*   [ProxySQL](https://github.com/renecannao/proxysql) - 高性能的 MySQL 代理。
-*   [Atlas](https://github.com/Qihoo360/Atlas) - Qihoo 360开源的MySQL Proxy。
-*   [OneProxy](http://www.onexsoft.com/proxy.html) - 业界专家楼方鑫开发的商业Proxy产品。
+* [MaxScale](https://github.com/mariadb-corporation/MaxScale) - 开源，以数据库为中心的代理。
+* [Mixer](https://github.com/siddontang/mixer) - Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。
+* [MySQL Proxy](https://launchpad.net/mysql-proxy) - 一个处于你的客户端和 MySQL 服务端之间的简单程序，它可以检测、分析或者改变它们的通信。
+* [ProxySQL](https://github.com/renecannao/proxysql) - 高性能的 MySQL 代理。
+* [Atlas](https://github.com/Qihoo360/Atlas) - Qihoo 360开源的MySQL Proxy。
+* [OneProxy](http://www.onexsoft.com/proxy.html) - 业界专家楼方鑫开发的商业Proxy产品。
 
 
 ## 复制
@@ -172,7 +173,7 @@ _复制相关的软件_
 _附加模式_
 
 *   [common_schema](https://code.google.com/archive/p/common-schema) - MySQL DBA 的框架， 提供一个具有函数库、视图库和查询脚本的解释器。
-*   [sys](https://github.com/mysql/mysql-sys) - 一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。（备注：MySQL 5.7已经集成了sys schema功能，可以不再关注该项目了）
+* [sys](https://github.com/mysql/mysql-sys) - 一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。（备注：MySQL 5.7已经集成了sys schema功能，可以不再关注该项目了）
 ## 服务器
 
 _MySQL server分支_
@@ -193,8 +194,8 @@ _分片解决方案/框架_
 *   [jetpants](https://github.com/tumblr/jetpants) - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 *   [DBproxy](https://github.com/Meituan-Dianping/DBProxy) - 美团开源出来的一个DBproxy 目前比较活跃
 *   [MyCAT](https://github.com/MyCATApache/Mycat-Server) - 基于Java开发的一款Proxy功能方面比较强大。
-*   [Atlas](https://github.com/Qihoo360/Atlas) - Qihoo 360开源的MySQL Proxy。
-*   [KingShard](https://github.com/flike/kingshard) - 基于Golang实现的一个MySQL Proxy。
+* [Atlas](https://github.com/Qihoo360/Atlas) - Qihoo 360开源的MySQL Proxy。
+* [KingShard](https://github.com/flike/kingshard) - 基于Golang实现的一个MySQL Proxy。
 
 ## 工具包
 
@@ -248,6 +249,12 @@ _公开，持续的视频和音频转播。这不包括会议演讲那令人恐�
 __顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只需要一个 email 地址。_
 
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
+
+## 技术站点
+MySQL相关中文技术站点，博客，聚合等资源
+
+*   [MySQL Planet(中文)](http://planet.mysql.com/zh/) - MySQL 官方的博客聚合站。
+
 
 # 工具整理交流
 
