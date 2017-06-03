@@ -10,5 +10,6 @@
  * [MySQL优秀工具推荐](https://github.com/zhishutech/awesome-tools-cn/wiki/MySQL-%E4%BC%98%E7%A7%80%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90) 感谢 叶金荣 吴炳锡的收集
 * [Redis优秀工具推荐]()  暂无
 * [MongoDB优秀工具推荐]() 暂无
+* [MySQL DBA随手工具/脚本](https://github.com/zhishutech/mysqldba) 来自知数堂的分享
 
 
